@@ -1,0 +1,15 @@
+C:\Users\paven\Desktop\C# coding\bin\Debug\net7.0\C# coding.exe
+C:\Users\paven\Desktop\C# coding\bin\Debug\net7.0\C# coding.deps.json
+C:\Users\paven\Desktop\C# coding\bin\Debug\net7.0\C# coding.runtimeconfig.json
+C:\Users\paven\Desktop\C# coding\bin\Debug\net7.0\C# coding.dll
+C:\Users\paven\Desktop\C# coding\bin\Debug\net7.0\C# coding.pdb
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.csproj.AssemblyReference.cache
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.AssemblyInfoInputs.cache
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.AssemblyInfo.cs
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.csproj.CoreCompileInputs.cache
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.dll
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\refint\C# coding.dll
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.pdb
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\C# coding.genruntimeconfig.cache
+C:\Users\paven\Desktop\C# coding\obj\Debug\net7.0\ref\C# coding.dll
